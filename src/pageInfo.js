@@ -6,8 +6,8 @@ import semana5 from './images/semana5.png';
 import semana6 from './images/semana6.png';
 import semana7 from './images/semana7.png';
 import semana8 from './images/semana8.png'; // Reutilizando semana1 para semana8
-import semana9 from './images/semana2.png'; // Reutilizando semana2 para semana9
-import semana10 from './images/semana3.png'; // Reutilizando semana3 para semana10
+import semana9 from './images/semana9-1.png'; // Reutilizando semana2 para semana9
+import semana10 from './images/semana10.png'; // Reutilizando semana3 para semana10
 
 const pages = [
     {
